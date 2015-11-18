@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 this is more info because we are going to compare the file 
 
 This is a copyright notice.
+
+
+
+This is a modified file
