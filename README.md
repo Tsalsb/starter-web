@@ -10,3 +10,5 @@ This is even more data to add into the file.
 Sample website with plenty of files for demos
 
 this is more info because we are going to compare the file 
+
+This is a copyright notice.
